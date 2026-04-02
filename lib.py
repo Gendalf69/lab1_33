@@ -1,4 +1,5 @@
 # изменил файл
+#flflf
 def count_common_elements(*lists):
     sets = [set(lst) for lst in lists]
 
